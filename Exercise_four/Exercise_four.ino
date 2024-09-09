@@ -5,7 +5,7 @@ void setup() {
     ;
   }
 
-  Serial.begin(9600);
+  //Serial.begin(9600);
   
   int sum = 0; // Variable to store the sum
 

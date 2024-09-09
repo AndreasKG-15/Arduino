@@ -35,13 +35,13 @@ void loop() {
       //SorF = True;
       Serial.println(tal2);
       Serial.println(True);
-      delay(100);
+      delay(500);
     }
     else
     {
       Serial.println(tal2);
       Serial.println(False);
-      delay(100);
+      delay(500);
     }
   }
 
